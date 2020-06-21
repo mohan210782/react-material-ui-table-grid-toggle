@@ -2,9 +2,9 @@
 
 React Table and Grid toggle has visualized data from CSV (got from https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC)
 
-The component created for visualize the data in Tow different formate "Table and Card"
+The component  "Stocks" created  to visualize the data in two different forms "Table and Card"
 
-THis project usr Material UI 
+THis project used Material UI 
 
 ## Available Scripts
 
